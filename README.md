@@ -47,6 +47,10 @@ INSTA-YOU Is an social networking site Like instagram having functionality like 
 
 ![from diff user](https://user-images.githubusercontent.com/37737194/106668126-e89a6400-65cf-11eb-96f1-ca03460b238c.PNG)
 
+## LOGOUT
+
+![logout](https://user-images.githubusercontent.com/37737194/106668072-d3253a00-65cf-11eb-99dd-e8e5f6a04f34.PNG)
+
 
 ## Contributing
 
